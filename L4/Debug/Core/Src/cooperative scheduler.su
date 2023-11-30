@@ -1,0 +1,5 @@
+cooperative scheduler.c:6:6:SCH_Init	4	static
+cooperative scheduler.c:10:6:SCH_Add_Task	24	static
+cooperative scheduler.c:21:6:SCH_Update	16	static
+cooperative scheduler.c:33:6:SCH_Dispatch_Tasks	16	static
+cooperative scheduler.c:46:6:SCH_Delete	24	static
